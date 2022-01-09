@@ -1,0 +1,58 @@
+{
+    "notifications": [
+        {
+            "name": "barbara", 
+            "profilePic": "assets/images/barbara.jpeg", 
+            "content": " liked your video. ", 
+            "postImage": "assets/images/talha.jpeg", 
+            "timeAgo": "20s", 
+            "hasStory" : false
+        },
+        {
+            "name":  "Emir", 
+            "profilePic":  "assets/images/emir.jpeg", 
+            "content":  " liked your post. ", 
+            "postImage":  "assets/images/talha2.jpeg",
+            "timeAgo":  "3m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "Abdullah", 
+            "profilePic":  "assets/images/apo.jpeg", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "3m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "mert", 
+            "profilePic":  "assets/images/mert.jpeg", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "3m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "barbara", 
+            "profilePic":  "assets/images/barbara.jpeg", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "4m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "emir", 
+            "profilePic":  "assets/images/emir.jpeg", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "4m", 
+            "hasStory" :  false
+        }
+        
+
+       
+        
+       
+       
+    ]    
+}
